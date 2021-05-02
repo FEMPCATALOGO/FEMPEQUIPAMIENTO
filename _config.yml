@@ -21,7 +21,7 @@ defaults:
       
 author:
   name   : "Equipamientos Municipales"
-  avatar : "img/equipamientos.png"
+  avatar : "img/equipamiento.png"
   bio    : "Vocabulario para la representación de datos sobre los equipamientos municipales."
   links:
     - label: "Página web"
