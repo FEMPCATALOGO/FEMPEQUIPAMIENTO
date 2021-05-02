@@ -23,7 +23,7 @@ classes: wide
   
 | Dominio |  Estado  |   Links   |   Issues   |    Fecha Publicación |   Prefijo   | Formatos |   Liciencia | Idiomas   | Descripción |
 | -------- | -------- | --------- | ---------- | --------------- | -------- | --------- | -------- | --------- | ---------- | 
-| Urbanismo e infraestructuras   Equipamientos | Terminado | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/equipamiento-municipal/index-en.html)* *[Repositorio](https://github.com/opencitydata/sociedad-bienestar-equipamientos-municipales)*  |  *[Generar issue](https://github.com/opencitydata/sociedad-bienestar-equipamientos-municipales/issues)*   | 	 | eseqmu | rdf+xml   html   turtle  | CC-BY  | es  | Este vocabulario describe de forma concreta los equipamientos municipales. Para ello lleva a cabo una clasificacion de los mismos basada en un tesauro de hasta tres niveles de profundidad. |
+| Urbanismo e infraestructuras   Equipamientos | En proceso | *[Página web](http://vocab.linkeddata.es/datosabiertos/def/urbanismo-infraestructuras/equipamiento-municipal/index-en.html)* *[Repositorio](https://github.com/opencitydata/sociedad-bienestar-equipamientos-municipales)*  |  *[Generar issue](https://github.com/opencitydata/sociedad-bienestar-equipamientos-municipales/issues)*   | 	 | eseqmu | rdf+xml   html   turtle  | CC-BY  | es  | Este vocabulario describe de forma concreta los equipamientos municipales. Para ello lleva a cabo una clasificacion de los mismos basada en un tesauro de hasta tres niveles de profundidad. |
  
  
   
